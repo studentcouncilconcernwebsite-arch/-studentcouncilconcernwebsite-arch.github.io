@@ -1,7 +1,6 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <title>Anonymous School Feedback</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <!-- Opt-in to light/dark color schemes for native UI surfaces -->
   <meta name="color-scheme" content="light dark" />
