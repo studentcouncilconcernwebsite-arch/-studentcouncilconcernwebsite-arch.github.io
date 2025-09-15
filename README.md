@@ -6,9 +6,6 @@
   <!-- Opt-in to light/dark color schemes for native UI surfaces -->
   <meta name="color-scheme" content="light dark" />
   <style>
-    :root {
-      /* Let the UA render appropriate form controls in light/dark */
-      color-scheme: light dark;
 
       /* Theming via CSS custom properties (variables) */
       --bg: #f7f8fb;
